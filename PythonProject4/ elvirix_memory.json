@@ -1,7 +1,0 @@
-[
-  {
-    "timestamp": "2025-07-11T15:48:00",
-    "issue": "Polling не запускался",
-    "fix": "Добавлен bot.polling(none_stop=True)"
-  }
-]
